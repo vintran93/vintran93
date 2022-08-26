@@ -12,7 +12,7 @@ If I am not coding, I am still learning new things and displaying determination 
 Projects 📚 ✏️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-•	Austin Trails App | [GitHub](https://github.com/vintran93/austin-trails) | Video Demo | Ruby | Listed the top hiking trails with user functionalities
+•	Austin Trails App | [GitHub](https://github.com/vintran93/austin-trails) | [Video Demo](https://www.youtube.com/watch?v=Kdfp_uW4E_w&t=141s) | Ruby | Listed the top hiking trails with user functionalities
 
 •	Piano Sheet Music App | GitHub | Video Demo | Sinatra | Sheet music manager for users
 
