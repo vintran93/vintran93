@@ -4,7 +4,7 @@ Hey! I'm Vincent! 😃
 
 I'm an experienced Full Stack Software Developer in Ruby on Rails, JavaScript, and React Redux. I have a healthcare and insurance background, strong interpersonal skills, and a knack for problem solving. 
 
-I highly value clients and customers' needs and strive to create products that they will be beneficial to our society. I am a curious and natural problem solver and always want to keep learning and stimulating my brain. I am amicable and always try to be positive and ensure the company is meeting its goals and expectations all while staying up to date and innovative.
+I highly value clients and customers' needs and strive to create products that they will be beneficial to our society. I am a curious and natural problem solver and always want to keep learning and stimulating my brain. I am amicable and always trying to be positive and ensure the company is meeting its goals and expectations all while staying up to date and innovative.
 
 If I am not coding, I am still learning new things and displaying determination in other hobbies such as playing piano or learning a new trick on a skateboard. 
 
