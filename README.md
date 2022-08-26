@@ -16,8 +16,8 @@ Projects 📚 ✏️
 
 •	Piano Sheet Music App | GitHub | Video Demo | Sinatra | Sheet music manager for users
 
-•	Finances App | GitHub | Video Demo | Ruby on Rails | Finance portfolio management for users
+•	Finances App | GitHub | Video Demo | Ruby on Rails | Create a finance portfolio manager for users
 
-•	Movie Quotes App | GitHub | Video Demo | JavaScript | Movie quotes with related characters
+•	Movie Quotes App | GitHub | Video Demo | JavaScript | Creates a collection of movie quotes with related characters and movies
 
-•	Doctor Appointments App | GitHub | Video Demo |  React Redux | Users can book appointments
+•	Doctor Appointments App | GitHub | Video Demo |  React Redux | Patients can book appointments
