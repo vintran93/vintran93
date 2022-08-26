@@ -14,10 +14,10 @@ Projects 📚 ✏️
 
 •	Austin Trails App | [GitHub](https://github.com/vintran93/austin-trails) | [Video Demo](https://www.youtube.com/watch?v=Kdfp_uW4E_w&t=141s) | Ruby | Listed the top hiking trails with user functionalities
 
-•	Piano Sheet Music App | GitHub | Video Demo | Sinatra | Sheet music manager for users
+•	Piano Sheet Music App | [GitHub](https://github.com/vintran93/piano_tracker) | [Video Demo](https://www.youtube.com/watch?v=aufhejTUZ94&t=105s) | Sinatra | Sheet music manager for users
 
-•	Finances App | GitHub | Video Demo | Ruby on Rails | Create a finance portfolio manager for users
+•	Finances App | [GitHub](https://github.com/vintran93/finances) | [Video Demo](https://www.youtube.com/watch?v=ITwy3sj7G9U&t=370s) | Ruby on Rails | Create a finance portfolio manager for users
 
-•	Movie Quotes App | GitHub | Video Demo | JavaScript | Creates a collection of movie quotes with related characters and movies
+•	Movie Quotes App | [GitHub](https://github.com/vintran93/movie_quotes) | [Video Demo](https://www.youtube.com/watch?v=b022FTS3iYg) | JavaScript | Creates a collection of movie quotes with related characters and movies
 
-•	Doctor Appointments App | GitHub | Video Demo |  React Redux | Patients can book appointments
+•	Doctor Appointments App | [GitHub](https://github.com/vintran93/appointments_app) | [Video Demo](https://www.youtube.com/watch?v=5p5KyLYtrqw&t=204s) |  React Redux | Patients can book appointments
