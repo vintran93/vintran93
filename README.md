@@ -18,6 +18,6 @@ Projects 📚 ✏️
 
 •	Finances App | [GitHub](https://github.com/vintran93/finances) | [Video Demo](https://www.youtube.com/watch?v=ITwy3sj7G9U&t=370s) | Ruby on Rails | Create a finance  manager for users to learn to diversify their portfolios
 
-•	Movie Quotes App | [GitHub](https://github.com/vintran93/movie_quotes) | [Video Demo](https://www.youtube.com/watch?v=b022FTS3iYg) | JavaScript | Creates a collection of movie quotes with related characters and movies
+•	Movie Quotes App | [GitHub](https://github.com/vintran93/movie-quotes-client) | [Video Demo](https://www.youtube.com/watch?v=b022FTS3iYg) | JavaScript | Creates a collection of movie quotes with related characters and movies
 
 •	Doctor Appointments App | [GitHub](https://github.com/vintran93/appointments_app) | [Video Demo](https://www.youtube.com/watch?v=5p5KyLYtrqw&t=204s) |  React Redux | Patients can book appointments
