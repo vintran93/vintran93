@@ -16,7 +16,7 @@ Projects 📚 ✏️
 
 •	Piano Sheet Music | [GitHub](https://github.com/vintran93/piano_tracker) | [Video Demo](https://www.youtube.com/watch?v=aufhejTUZ94&t=105s) | Sinatra | Sheet music manager for users
 
-•	Finances | [GitHub](https://github.com/vintran93/finances) | [Video Demo](https://www.youtube.com/watch?v=ITwy3sj7G9U&t=370s) | Ruby on Rails | Create a finance  manager for users to learn to diversify their portfolios
+•	Finances | [GitHub](https://github.com/vintran93/finances) | [Video Demo](https://www.youtube.com/watch?v=ITwy3sj7G9U&t=370s) | Ruby on Rails | Creates a finance  manager for users to learn to diversify their portfolios
 
 •	Movie Quotes | [GitHub](https://github.com/vintran93/movie-quotes-client) | [Video Demo](https://www.youtube.com/watch?v=b022FTS3iYg) | JavaScript | Creates a collection of movie quotes with related characters and movies
 
