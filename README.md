@@ -12,7 +12,7 @@ If I am not coding, I am still learning new things and staying busy in other hob
 Projects 📚 ✏️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-•	Austin Trails | [GitHub](https://github.com/vintran93/austin-trails) | [Video Demo](https://www.youtube.com/watch?v=Kdfp_uW4E_w&t=141s) | Ruby | Listed the top hiking trails with user functionalities
+•	Austin Trails | [GitHub](https://github.com/vintran93/austin-trails) | [Video Demo](https://www.youtube.com/watch?v=Kdfp_uW4E_w&t=141s) | Ruby CLI Gem| Listed the top hiking trails with user functionalities
 
 •	Piano Sheet Music | [GitHub](https://github.com/vintran93/piano_tracker) | [Video Demo](https://www.youtube.com/watch?v=aufhejTUZ94&t=105s) | Sinatra | Sheet music manager for users
 
