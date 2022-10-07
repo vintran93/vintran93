@@ -8,7 +8,7 @@ I highly value client's needs and strive to create products that will be benefic
 
 If I am not coding, I am still learning new things and staying busy in other hobbies such as playing piano or learning a new trick on a skateboard. 
 
-Check out my portfolio webiste [here](https://vincent-tran-portfolio-website.vercel.app/).
+You can check out my portfolio website [here](https://vincent-tran-portfolio-website.vercel.app/).
 
 Projects 📚 ✏️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
