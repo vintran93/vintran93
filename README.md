@@ -6,8 +6,6 @@ I'm an experienced Full Stack Software Developer in Ruby on Rails, Sinatra, Java
 
 I highly value client's needs and strive to create products that will be beneficial to the tech industry. I am a curious and natural problem solver and always want to keep learning and improving my skillset. I am amicable and always trying to be positive and ensure the company is meeting its goals and expectations all while staying up-to-date and innovative.
 
-If I am not coding, I am still learning new things and staying busy in other hobbies such as playing piano or learning a new trick on a skateboard. 
-
 You can check out my portfolio website [here](https://vincent-tran-portfolio-website.vercel.app/).
 
 Projects 📚 ✏️
