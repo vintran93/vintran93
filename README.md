@@ -2,7 +2,7 @@ Hey! I'm Vincent! 😃
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I'm an experienced Full Stack Software Developer in Ruby on Rails, Sinatra, JavaScript, Python, and React Redux. I have a healthcare and insurance IT, strong interpersonal skills, and a knack for problem solving. 
+I'm an experienced Full Stack Software Developer in C#, .Net Framework, Ruby on Rails, Sinatra, JavaScript, Python, and React Redux. I have a healthcare and insurance IT, strong interpersonal skills, and a knack for problem solving. 
 
 I highly value client's needs and strive to create products that will be beneficial to the tech industry. I am a curious and natural problem solver and always want to keep learning and improving my skillset. I am amicable and always trying to be positive and ensure the company is meeting its goals and expectations all while staying up-to-date and innovative.
 
