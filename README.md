@@ -6,7 +6,7 @@ I'm an experienced Full Stack Software Developer in C#, .Net Framework, Ruby on 
 
 I highly value client's needs and strive to create products that will be beneficial to the tech industry. I am a curious and natural problem solver and always want to keep learning and improving my skillset. I am amicable and always trying to be positive and ensure the company is meeting its goals and expectations all while staying up-to-date and innovative.
 
-CompTIA Certified Professional - A+, Network+. 
+CompTIA Certified Professional - A+, Network+, Currently working towards Security+. 
 
 You can check out my portfolio website [here](https://vincent-tran-portfolio-website.vercel.app/).
 
