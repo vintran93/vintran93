@@ -14,7 +14,7 @@ Projects 📚 ✏️
 
 •	Movie Quotes | [GitHub](https://github.com/vintran93/movie-quotes-client) | [Video Demo](https://www.youtube.com/watch?v=b022FTS3iYg) | Build using JavaScript and Ruby on Rails– full stack app allows users to post movie quotes and related characters as well as like or delete their posts
 
-•	Finances | [GitHub](https://github.com/vintran93/finances) | [Video Demo](https://www.youtube.com/watch?v=ITwy3sj7G9U&t=370s) | Built using Ruby on Rails and bootstrap – a website built for users wanting to manager their finances by portfolios and to learn how to make investments
+•	Finances | [GitHub](https://github.com/vintran93/finances) | [Video Demo](https://www.youtube.com/watch?v=ITwy3sj7G9U&t=370s) | Built using Ruby on Rails and bootstrap – a website built for users wanting to manage their finances by portfolios and to learn how to make investments
 
 •	Piano Sheet Music | [GitHub](https://github.com/vintran93/piano_tracker) | [Video Demo](https://www.youtube.com/watch?v=aufhejTUZ94&t=105s) | Built using Sinatra – a comprehensive website that allows users to save piano sheet music and organize by songs, artists, or genres
 
