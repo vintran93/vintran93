@@ -10,6 +10,8 @@ You can check out my portfolio website [here](https://vincent-tran-portfolio-web
 
 Projects 📚 ✏️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+•	Python Networking Lab Simulator | [GitHub](https://github.com/vintran93/networking-lab-simulator) | Built using Python - a Lab Simulator for practicing networking labs
+
 •	Doctor Appointments | [GitHub](https://github.com/vintran93/appointments_app) | [Video Demo](https://www.youtube.com/watch?v=5p5KyLYtrqw&t=204s) |  Built using React Redux – full stack app using PostgreSQL allows users to book appointments and post doctors with their credentials and users 
 
 •	Movie Quotes | [GitHub](https://github.com/vintran93/movie-quotes-client) | [Video Demo](https://www.youtube.com/watch?v=b022FTS3iYg) | Build using JavaScript and Ruby on Rails– full stack app allows users to post movie quotes and related characters as well as like or delete their posts
@@ -20,7 +22,7 @@ Projects 📚 ✏️
 
 •	Austin Trails | [GitHub](https://github.com/vintran93/austin-trails) | [Video Demo](https://www.youtube.com/watch?v=Kdfp_uW4E_w&t=141s) | Built with Ruby CLI Gem – an app that allows users to discover the top hiking trails in Austin, TX and display a description of each trail
 
-•	Python Networking Lab Simulator | [GitHub](https://github.com/vintran93/networking-lab-simulator) | Built using Python - a Lab Simulator for practicing networking labs
+
 
 
 
