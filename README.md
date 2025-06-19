@@ -20,7 +20,7 @@ Projects 📚 ✏️
 
 •	Austin Trails | [GitHub](https://github.com/vintran93/austin-trails) | [Video Demo](https://www.youtube.com/watch?v=Kdfp_uW4E_w&t=141s) | Built with Ruby CLI Gem – an app that allows users to discover the top hiking trails in Austin, TX and display a description of each trail
 
-•	Python Networking Lab Simulator | [GitHub](github.com/vintran93/networking-lab-simulator/tree/main) | Built using Python - a Lab Simulator for practicing networking labs
+•	Python Networking Lab Simulator | [GitHub](github.com/vintran93/networking-lab-simulator) | Built using Python - a Lab Simulator for practicing networking labs
 
 
 
