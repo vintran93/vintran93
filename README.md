@@ -12,7 +12,7 @@ Projects 📚 ✏️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •	Networking Lab Simulator | [GitHub](https://github.com/vintran93/lab_quiz_project) | Built using Python & Django - a lab simulator for practicing configuring routers and switches in networking
 
-•	Doctor Appointments | [GitHub](https://github.com/vintran93/appointments_app) | [Video Demo](https://www.youtube.com/watch?v=5p5KyLYtrqw&t=204s) |  Built using React Redux – full stack app using PostgreSQL allows users to book appointments and post doctors with their credentials and users 
+•	Doctor Appointments | [GitHub](https://github.com/vintran93/doctor-appointment-scheduler/tree/main) | Built using React Redux – full stack python and django app allows users to book appointments with specialized doctors in the local area
 
 •	Movie Quotes | [GitHub](https://github.com/vintran93/movie-quotes-client) | [Video Demo](https://www.youtube.com/watch?v=b022FTS3iYg) | Build using JavaScript and Ruby on Rails– full stack app allows users to post movie quotes and related characters as well as like or delete their posts
 
