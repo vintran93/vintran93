@@ -12,7 +12,7 @@ Projects 📚 ✏️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •	Networking Lab Simulator | [GitHub](https://github.com/vintran93/lab_quiz_project) | Built using Python & Django - a lab simulator for practicing configuring routers and switches in networking
 
-•	Doctor Appointments | [GitHub](https://github.com/vintran93/doctor-appointment-scheduler/tree/main) | Built using React Redux – full stack python and django app allows users to book appointments with specialized doctors in the local area
+•	Doctor Appointments | [GitHub](https://github.com/vintran93/doctor-appointment-scheduler/tree/main) | [Video Demo](https://www.youtube.com/watch?v=5p5KyLYtrqw&t=149s) | Built using React Redux – full stack python and django app allows users to book appointments with specialized doctors in the local area
 
 •	Movie Quotes | [GitHub](https://github.com/vintran93/movie-quotes-client) | [Video Demo](https://www.youtube.com/watch?v=b022FTS3iYg) | Build using JavaScript and Ruby on Rails– full stack app allows users to post movie quotes and related characters as well as like or delete their posts
 
@@ -23,7 +23,7 @@ Projects 📚 ✏️
 •	Austin Trails | [GitHub](https://github.com/vintran93/austin-trails) | [Video Demo](https://www.youtube.com/watch?v=Kdfp_uW4E_w&t=141s) | Built with Ruby CLI Gem – an app that allows users to discover the top hiking trails in Austin, TX and display a description of each trail
 
 
-
+https://www.youtube.com/watch?v=5p5KyLYtrqw&t=149s
 
 
 
