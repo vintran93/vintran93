@@ -10,7 +10,7 @@ You can check out my portfolio website [here](https://vincent-tran-portfolio-web
 
 Projects 📚 ✏️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-•	Networking Lab Simulator | [GitHub](https://github.com/vintran93/lab_quiz_project) | Built using Python & React - a lab simulator for practicing configuring routers and switches in networking
+•	Networking Lab Simulator | [GitHub](https://github.com/vintran93/lab_quiz_project) | Built using Python/Django - a lab simulator for practicing configuring routers and switches in networking
 
 •	Doctor Appointments | [GitHub](https://github.com/vintran93/doctor-appointment-scheduler/tree/main) | [Video Demo](https://www.youtube.com/watch?v=5p5KyLYtrqw&t=149s) | Built using React Redux – full stack python and django app allows users to book appointments with specialized doctors in the local area
 
