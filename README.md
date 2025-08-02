@@ -12,6 +12,8 @@ Projects 📚 ✏️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •	Networking Lab Simulator | [GitHub](https://github.com/vintran93/lab_quiz_project) | Built using Python - a lab simulator for practicing configuring routers and switches in networking
 
+•	Flashcards App | [GitHub](https://github.com/vintran93/flashcard_app) | Built using React and Python - Users can create customized flashcards to aid in studying any topic of interest
+
 •	Recipes App | [GitHub](https://github.com/vintran93/recipes_app) | Built using React and Python - Users can set up an account to post their favorite culinary recipes
 
 •	Doctor Appointments | [GitHub](https://github.com/vintran93/doctor-appointment-scheduler/tree/main) | [Video Demo](https://www.youtube.com/watch?v=5p5KyLYtrqw&t=149s) | Built using React Redux – full stack python and django app allows users to book appointments with specialized doctors in the local area
